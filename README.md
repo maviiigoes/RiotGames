@@ -1,4 +1,4 @@
-# Análise Responsiva da Página Web da Riot Games##
+# Análise Responsiva da Página Web da Riot Games
   Este documento apresenta uma análise da responsividade da página web da Riot Games. A análise inclui informações sobre breakpoints (mudanças de layout) e detalhes sobre as diferentes seções da página.
 
 
