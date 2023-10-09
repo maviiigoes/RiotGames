@@ -28,4 +28,4 @@
       Em tablets e celulares, os cards são organizados em uma única coluna para facilitar a leitura.
 
  ### Rodapé
-      O rodapé da página se adapta de acordo com o tamanho do dispositivo, garantindo que a experiência do usuário seja consistente, independentemente do         dispositivo utilizado.
+      O rodapé da página se adapta de acordo com o tamanho do dispositivo, garantindo que a experiência do usuário seja consistente, independentemente do dispositivo utilizado.
